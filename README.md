@@ -17,7 +17,7 @@ Este proyecto es una solución al desafío [Base Apparel Coming Soon Page](https
 
 ## Instrucciones de Uso
 
-Este proyecto es una página web estática, por lo que no requiere instalación. Simplemente visita el siguiente enlace para ver la página en acción:
+Este proyecto es una página web estática, por lo que no requiere instalación. Simplemente visita el siguiente enlace para ver la página:
 
 👉 [Ver Página en Vivo](https://omargarcia21.github.io/base-apparel.github.io/)
 
@@ -25,5 +25,4 @@ Este proyecto es una página web estática, por lo que no requiere instalación.
 
 La página incluye un formulario de suscripción con validación de email. Para probarlo:
 
-1. Ingresa un email válido (por ejemplo, `usuario@example.com`) y haz clic en el botón de enviar. Verás un mensaje de éxito.
-2. Ingresa un email inválido (por ejemplo, `usuario@example`) y haz clic en el botón de enviar. Verás un mensaje de error y un ícono de advertencia.
+1. Ingresa un email inválido (por ejemplo, `usuario@example`) y haz clic en el botón de enviar. Verás un mensaje de error y un ícono de advertencia.
